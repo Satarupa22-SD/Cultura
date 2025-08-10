@@ -10,5 +10,5 @@ Cultura is your friendly AI assistant for all things fashion, beauty, and lifest
 2. Ask Anything – Ask questions related to fashion, dresses, events, skincare, travel style, or lifestyle tips.
 3. Get Tailored Advice – Receive personalized recommendations based on user style, location, and budget.
 
-Visit [Cultura](https://t.me/auracurator_bot) on Telegram
+Visit [CulturaAI](https://t.me/auracurator_bot) on Telegram
 
