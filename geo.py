@@ -20,9 +20,6 @@ class LocationAPI:
                 'addressdetails': 1
             }
             
-            headers = {
-                'User-Agent': 'FashionApp/1.0 (your-email@example.com)'  # Replace with your email
-            }
             
             response = requests.get(
                 self.base_url, 
@@ -66,4 +63,5 @@ class LocationAPI:
             'country': address.get('country'),
             'display_name': data.get('display_name'),
             'found': True
+
         }
