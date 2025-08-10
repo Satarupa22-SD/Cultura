@@ -1,2 +1,2 @@
 # Cultura
-A fashion and lifestyle bot
+Cultura is your friendly AI assistant for all things fashion, beauty, and lifestyle. Whether you need skincare tips, outfit ideas for an upcoming event, travel-friendly wardrobe suggestions, or inspiration from music and pop culture, Cultura curates advice that fits your vibe, location, body type, and budget. With a global fashion sense and a personal touch, Cultura turns everyday style choices into confident, feel-good moments.
